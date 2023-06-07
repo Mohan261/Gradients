@@ -8,7 +8,8 @@
 	margin:0 auto;
 }
 .linear{
-	background-image:linear-gradient(45deg,violet,indigo,blue,green,yellow,orange,red);
+	background-image:linear-gradient(rgb(238 130 238 / 50%),rgb(0 130 50 / 50%),rgb(0 0 255 / 50%)),url(../img/christmas.jpg);
+	background-size:cover;
 	width:200px;
 	height:200px;
 	margin-top:40px;
